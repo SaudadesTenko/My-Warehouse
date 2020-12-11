@@ -1,3 +1,3 @@
 # My-Warehouse
 
- ### Welcome you to look thougt My-Warehouse that a blog to record my learning experience.
+ ### Welcome you to look though My-Warehouse that a blog to record my learning experience.
