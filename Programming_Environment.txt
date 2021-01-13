@@ -62,3 +62,72 @@ GO语言开源工具
     3.Gaia (开源自动化平台)
     4.Realize (加快工作流程工具)
     5.Gotests(命令行工具)
+    
+    
+前段工程师
+    基础:HTML教程,CSS教程
+    进阶:JavaScript,JQuery
+    高级:AJAX教程,JSON教程,XML教程
+    框架扩展学习: Bootstrap教程,JQuery Mobile教程
+    调试工具: Firebug教程
+    开发工具:HBuilder,Dreamweaver,Notepad++,hotoshop
+
+
+PHP工程师
+    基础: HTML教程,PHP教程
+    进阶: SQL教程,MySQL教程
+    高级: 正则表达式教程,Mongodb教程,AJAX教程
+    JSON教程,XML教程
+    开发工具: Notepad++,PhpMyAdmin,EasyEclipse for PHP
+
+
+JAVA工程师
+    基础: Java教程,JSP教程
+    进阶: SQL教程,MySQL教程
+    高级:正则表达式教程,Mongodb教程,AJAX教程,JSNON教程,XML教程
+    开发工具: Eclipse
+
+
+Python工程师
+    基础: Python教程
+    进阶: SQL教程,MySQL教程
+    高级:正则表达式教程,Mongodb教程,AJAX教程
+    JSON教程,XML教程
+    开发工具: PyDev for Eclipse
+
+
+.NET工程师
+    基础:C#教程,ASP.NET教程
+    进阶:SQL教程
+    高级:正则表达式教程,Mongodb教程,AJAX教程,JSON教程,XML教程
+    开发工具: visual studio 2010
+
+
+C/C++开发工程师
+   C语言初步入门阶段
+        面向结构的程序设计概述
+        计算机程序的灵魂             
+        算法
+        基本数据类型
+        运算符及位运算
+        顺序结构
+        分支结构
+        循环结构
+   C语言提高到精通阶段
+        构造类型一数组
+        函数及字符串
+        指针(初级和高级)
+        构造类型:构造体联
+        合枚举
+        预处理
+        储存管理
+        文件操作
+        数据结构:线性表
+        数据结构:线和队列
+        数据结构:查找和排序
+    开发工具:
+        Windows7/10操作系统
+        C语言图形库:EasyX库
+        Visual Studio
+
+
