@@ -1,0 +1,65 @@
+C
+    1.VC++6.0 (小白推荐)
+    2.C-Free (小白推荐)
+    3.Code::Blocks
+    4.Dev-C++
+    5.Visual Studio
+    6.GCC
+
+
+C++
+    1.Dev C++ (小白推荐)
+    2.Anjuta(开发环境)
+    3.CodeBlocks (集成环境)
+    4.Visual Mingw (开源IDE)
+    5.ldeone (编译和调试工具)
+    6.kDevelop(可扩展IDE)
+
+
+Python
+   编辑器
+      1 Vim
+      2 Atom
+      3.Sublime Text
+      4.IDLE
+   集成工具IDE
+      1.PyCharm
+      2.Wing IDE
+
+
+C#
+    1.SlickEdit 
+    2.Rextester (编译器)
+    3.C# Pad(REPL工具) 
+    4.Jdoodle (编译器)
+    5. NET Fiddle (调试工具) 
+    6.Telerik Fiddler (测试工具)
+
+
+java
+    1.Notepad++ (小白推荐)
+    2.UltraFdit (小白推荐)
+    3.JDK (软件开发工具包)
+    4.Git (版本控制软件)
+    5.JUnit (单元测试框架)
+    6.IDEA (集成环境)
+
+
+JavaScript
+    1.Webpack (构建&自动化)
+    2.WebStorm (IDE&编辑器)
+    3.Swagger (文档)
+    4.Jasmine (测试)
+    5.JavaScript Debugger(调试)
+    6.RetireJS (安全)
+    7.JSLint (代码优化&分析)
+    8. Bower (包管理)
+
+
+GO语言开源工具
+    1.Go Revive (代码质量检测工具) 
+    2.Go Callvis (可视化工具)
+    3.Gaia (开源自动化平台)
+    4.Realize (加快工作流程工具)
+    5.Gotests(命令行工具)
+    
